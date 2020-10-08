@@ -1,0 +1,14 @@
+{
+  "name": "@hediDar/calculAndConversions",
+  "version": "1.0.0",
+  "description": "converts fahrenheit and kelvin temps to celsius",
+  "license": "MIT",
+  "repository": "HediDar/myNpmRepoTest",
+  "main": "index.js",
+  "keywords": [
+    "conversions",
+    "npm",
+    "package",
+    "hediDar"
+  ]
+}
